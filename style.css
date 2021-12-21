@@ -46,15 +46,12 @@ a {
 }
 
 .left-container {
-    /* border: solid; */
     padding: 10px 0 10px 50px;
     flex: 1;
 }
 
 .about-img {
     display: flex;
-    flex: 1;
-    /* border: solid; */
     padding: 20px 50px 20px 0;
 }
 
@@ -68,6 +65,10 @@ button {
 
 /* DISCOGRAPHY */
 
+.discography-container {
+    padding: 70px 0;
+}
+
 h1 {
     text-align: center;
     margin-bottom: 25px;
@@ -75,8 +76,8 @@ h1 {
     text-transform: uppercase;
     letter-spacing: .4rem;
 }
+
 .discography {
-    /* border: solid; */
     color: #19778a;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-transform: uppercase;
