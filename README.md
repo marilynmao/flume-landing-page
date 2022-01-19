@@ -1,2 +1,3 @@
-# odin-landing-page
-Odin Project - HTML/CSS Foundations Landing Page
+# landing-page
+HTML/CSS Foundations 
+Created a simple landing page using HTML & CSS
